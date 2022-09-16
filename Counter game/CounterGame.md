@@ -7,4 +7,4 @@ Counter Game!
 3. submit 버튼을 눌러, 숫자와 Count 버튼을 누른 횟수를 비교한다.
 4. 같다면 win이, 다르다면 lose가 모달창으로 뜬다.
 
-[Play Now]()
+[Play Now](catssul.github.io/Basic_Javascript_Project/Counter game/index.html)
