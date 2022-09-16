@@ -1,0 +1,28 @@
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.start {
+    width: 250px;
+    background-color: green;
+}
+
+.count {
+    width: 250px;
+    height: 250px;
+    font-size: x-large;
+    background-color: blue;
+}
+
+.submit {
+    width: 250px;
+    background-color: gray;
+}
