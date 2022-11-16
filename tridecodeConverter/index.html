@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="./main.js"></script>
+    <link rel="stylesheet" href="./main.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>문자변환기</h1>
+    내용 : <input type="text" id="str" onkeyup="getStr()" />
+    <input type="button" onclick="convert();" value="변환">
+
+    <section>
+        <div class="container">
+            <h3>13진수 변환결과</h3>
+            <div class="box">
+                <p id="resTridec"></p>
+            </div>
+        </div>
+
+        <div class="container">
+            <h3>암호 변환결과</h3>
+            <div class="box">
+                <p id="finalResult"></p>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

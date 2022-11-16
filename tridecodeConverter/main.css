@@ -1,0 +1,14 @@
+.container {
+    margin: 20px;
+}
+
+.box {
+    background-color: whitesmoke;
+    width: 300px;
+    height: 300px;
+    word-break: break-all
+}
+
+section {
+    display: flex;
+}
