@@ -5,4 +5,4 @@
 3. 13진수로 변환된 각 숫자들을 다른 문자로 변환합니다.
 
 
-[Try]( )
+[Try](https://catssul.github.io/Basic_Javascript_Project/tridecodeConverter/index.html)
