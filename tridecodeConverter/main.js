@@ -24,19 +24,19 @@ function convert(){
         /,|0|1|2|3|4|5|6|7|8|9|a|b|c/g, function(vl){
             switch(vl){
                 case "," : return " ";
-                case "0" : return "0️⃣";
-                case "1" : return "1️⃣";
-                case "2" : return "2️⃣";
-                case "3" : return "3️⃣";
-                case "4" : return "4️⃣";
-                case "5" : return "5️⃣";
-                case "6" : return "6️⃣";
-                case "7" : return "7️⃣";
-                case "8" : return "8️⃣";
-                case "9" : return "9️⃣";
-                case "a" : return "🔴";
-                case "b" : return "🟡";
-                case "c" : return "🔵";
+                case "0" : return "🌙";
+                case "1" : return "☀";
+                case "2" : return "🎁";
+                case "3" : return "💎";
+                case "4" : return "🀄";
+                case "5" : return "🔮";
+                case "6" : return "🎲";
+                case "7" : return "🎰";
+                case "8" : return "🎱";
+                case "9" : return "🎪";
+                case "a" : return "👑";
+                case "b" : return "👼";
+                case "c" : return "😈";
             }
         }
     )
